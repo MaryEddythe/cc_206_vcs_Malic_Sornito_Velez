@@ -1,6 +1,6 @@
-//{Josef Alexander S. Malic}: {""}
+// {Josef Alexander S. Malic}: {""}
 // {Mary Eddythe S. Sornito}: {""}
-// {Kyle G. Velez}: {"It really do be like that sometimes."}
+// {Kyle G. Velez}: {""}
 import 'package:flutter/material.dart';
 
 void main() {
