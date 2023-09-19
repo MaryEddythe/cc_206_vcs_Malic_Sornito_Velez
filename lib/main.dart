@@ -1,3 +1,7 @@
+// {Josef Alexander S. Malic}: {""}
+// {Mary Eddythe S. Sornito}: {"Believe you can and you're halfway there." - Theodore Roosevelt"}
+// {Kyle G. Velez}: {"It really do be like that sometimes."}
+
 import 'package:flutter/material.dart';
 
 void main() {
