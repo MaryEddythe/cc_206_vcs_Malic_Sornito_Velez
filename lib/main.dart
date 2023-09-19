@@ -1,6 +1,3 @@
-
-// { Mary Eddythe Sornito}: {""Believe you can and you're halfway there." - Theodore Roosevelt"}
-
 import 'package:flutter/material.dart';
 
 void main() {
